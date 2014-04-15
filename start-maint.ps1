@@ -1,3 +1,4 @@
+#### Version #0.1
 ###This is a script to assist in the Exchange bi-monthly downtime###
 ##You will need to download the RU and place it in the correct folder in order to properly use this script##
 
